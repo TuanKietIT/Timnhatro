@@ -2,17 +2,18 @@
 <span class="main-introduce">I created a small project with my own strength</span>
 <h3>Skill</h3>
 <hr/>
+<span>Student - team size: 3</span>
 <p>
     Technologies: HTML/CSS, responsive, tailwindcss, Javascript, vue js, 
     Three js, PHP/Laravel, mysql
 </p>
-<h3> 
-Student - team size: 3
-</h3>
 <span>
-   Three js, PHP/Laravel, mysql.
    Details: Build a small website with basic features such as searching by 
    category and location, user login and registration, creating posts, displaying 
    posts, adding favorites, and payment integration..
 </span>
+<h3>Home</h3>
+![image](https://github.com/TuanKietIT/Timnhatro/assets/137784924/7f4f83ae-9f90-4aaa-b8b0-37b941dc7e94)
+<h3>Admin</h3>
+![image](https://github.com/TuanKietIT/Timnhatro/assets/137784924/233bdbc4-2511-4e72-a5ee-1a81e50c0732)
       
