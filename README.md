@@ -12,8 +12,10 @@
    category and location, user login and registration, creating posts, displaying 
    posts, adding favorites, and payment integration..
 </span>
+<h3>Home Three js</h3>
+<img src="https://github.com/TuanKietIT/Timnhatro/assets/137784924/4f817d3f-9e7e-4693-b640-0ee89b8862c0" />
 <h3>Home</h3>
-![image](https://github.com/TuanKietIT/Timnhatro/assets/137784924/7f4f83ae-9f90-4aaa-b8b0-37b941dc7e94)
+<img src="https://github.com/TuanKietIT/Timnhatro/assets/137784924/7f4f83ae-9f90-4aaa-b8b0-37b941dc7e94" />
 <h3>Admin</h3>
-![image](https://github.com/TuanKietIT/Timnhatro/assets/137784924/233bdbc4-2511-4e72-a5ee-1a81e50c0732)
+<img src="https://github.com/TuanKietIT/Timnhatro/assets/137784924/233bdbc4-2511-4e72-a5ee-1a81e50c0732" />
       
