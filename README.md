@@ -6,7 +6,11 @@
     Technologies: HTML/CSS, responsive, tailwindcss, Javascript, vue js, 
     Three js, PHP/Laravel, mysql
 </p>
-<span>Three js, PHP/Laravel, mysql.
+<h3> 
+Student - team size: 3
+</h3>
+<span>
+   Three js, PHP/Laravel, mysql.
    Details: Build a small website with basic features such as searching by 
    category and location, user login and registration, creating posts, displaying 
    posts, adding favorites, and payment integration..
